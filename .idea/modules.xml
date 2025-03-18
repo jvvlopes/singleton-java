@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Padrão Comportamental - Singleton.iml" filepath="$PROJECT_DIR$/.idea/Padrão Comportamental - Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Padrão Criação - Singleton.iml" filepath="$PROJECT_DIR$/.idea/Padrão Criação - Singleton.iml" />
     </modules>
   </component>
 </project>
